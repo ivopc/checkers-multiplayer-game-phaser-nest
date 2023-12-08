@@ -1,0 +1,28 @@
+{
+  "Chat Title": "Chat",
+  "Chat Send Button": "Enviar",
+  "Chat Input Placeholder": "Escreva sua mensagem",
+  "Leave": "Sair",
+  "Rematch": "Revanche",
+  "Next": "Próximo",
+  "NoPiecesLeftRule": " O jogo termina quando uma equipe não tem mais peças no tabuleiro.",
+  "IsNotKingRule": "Uma peça deve ser transformada em rei, se ainda não for um.",
+  "LastOppositeRowRule": "Uma peça se torna rei ao alcanças a última linha oposta do tabuleiro.",
+  "CapturePieceRule": "Um movimento de captura é válido se pular exatamente uma casa e capturar uma peça de cor diferente.",
+  "DiagonalMoveRule": "Os movimentos devem ser feitos na diagonal.",
+  "EmptyCellMoveRule": "Um movimento é válido se a célula de destino estiver vazia e a de origem ocupada.",
+  "ForwardMoveRule": "As peças só podem se mover para frente, exceto os reis ou em movimentos de captura.",
+  "InsideBoardMoveRule": "Movimentos devem começar eterminar dentro do tabuleiro.",
+  "MaxnxDistanceMoveRule": "Um movimento não pode exceder duas casas em qualquer direção.",
+  "MinDistanceMoveRule": "Um movimento deve ser de pelo menos uma casa em qualquer direção.",
+
+
+  "ImplicitTurnShift": "Regra para alternância de turnos.",
+  "KingMovementRule": "Regras específicas para movimentos de reis.",
+  "EndGameRule": "Critérios para empate ou outras condições de término de jogo, além da ausência de peças.",
+  "InitialStateRule": "Detalhes sobre o layout inicial do tabuleiro e a distribuição das peças.",
+  "KingPromotion": "Regras para promoção de peças a reis (além da regra de chegar à última linha).",
+
+  "HistoryTitle": "Histórico de jogo",
+  "HistorySubTitle": "Hoje"
+}

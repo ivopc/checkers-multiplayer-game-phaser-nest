@@ -1,0 +1,26 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "ESNext",
+    "lib": ["es5", "es6", "dom", "es2015", "scripthost"],
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "resolveJsonModule": true,
+    "moduleResolution": "node",
+    "strict": true,
+    "jsx": "react",
+    "esModuleInterop": true, // Enables es module interop
+    "forceConsistentCasingInFileNames": true, // Disallow inconsistently-cased references
+    "types": ["phaser", "node", "vite/client"], // Include Phaser types
+    "sourceMap": true // Enable source map for debugging
+  },
+  "include": [
+    "./src/**/*.ts", // Include all TypeScript files in src
+    "custom.d.ts", // Include the custom declaration file
+    "src/components/shared/curved-text.tsx"
+  ],
+  "exclude": [
+    "./node_modules"
+    // Exclude the node_modules directory
+  ]
+}

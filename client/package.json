@@ -1,0 +1,40 @@
+{
+  "name": "checkers",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/lodash": "^4.14.201",
+    "@types/node": "^20.8.10",
+    "@types/react": "^18.2.37",
+    "@types/react-dom": "^18.2.15",
+    "@vitejs/plugin-react": "^4.1.1",
+    "bun-types": "latest",
+    "dotenv": "^16.3.1",
+    "postcss-global-import": "^1.0.6",
+    "prettier": "^3.0.3"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.9.7",
+    "@sentry/react": "^7.81.1",
+    "@sentry/vite-plugin": "^2.10.1",
+    "http-server": "^14.1.1",
+    "i18next": "^23.7.6",
+    "lodash": "^4.17.21",
+    "phaser": "^3.60.0",
+    "phaser3-rex-plugins": "^1.60.7",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-i18next": "^13.4.1",
+    "react-redux": "^8.1.3",
+    "redux": "^4.2.1",
+    "socket.io-client": "^4.7.2",
+    "styled-components": "^6.1.1",
+    "typescript": "^5.0.0",
+    "vite": "^4.5.0"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  }
+}
