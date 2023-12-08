@@ -13,6 +13,7 @@ It's incomplete in a lot of features for bet purpouses, but it's primary gamepla
 Me - Main Developer
 
 Jonatan (SkyAlpha) - https://github.com/SkyAlpha - https://www.linkedin.com/in/jonatan-pietroski-60759585/ - Main Developer
+
 Danilo (Dan) - https://github.com/Dans1997 - Main Developer
 
 https://www.instagram.com/nieldsgn/ - Graphics Artist
