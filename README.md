@@ -20,10 +20,11 @@ https://www.instagram.com/nieldsgn/ - Graphics Artist
 
 https://www.instagram.com/saporettidzn/ - Graphics Artist
 
-(We need to get one more developer and sound maker social links to give them the credits)
+https://www.instagram.com/lpdamagica/ - Sound Designer
 
-# Usage
-Only code provided are free to use commercially under the respective license. All game artistic and sound resources are property of artists and not free to use commercially.
+
+# Commercial Usage
+Only code provided are free to use commercially under the respective license. All game artistic and sound/music resources are property of artists and not free to use commercially.
 
 # Extra
 ![huehuebr](https://i.imgur.com/bWPHnpc.png)
