@@ -11,3 +11,6 @@ Jonatan (SkyAlpha) - https://github.com/SkyAlpha - https://www.linkedin.com/in/j
 https://www.instagram.com/nieldsgn/ - Graphics Artist
 
 https://www.instagram.com/saporettidzn/ - Graphics Artist
+
+# Usage
+Only code provided are free to use commercially under the respective license. All game artistic and sounds resources are property of artists and not free to use commercially.
