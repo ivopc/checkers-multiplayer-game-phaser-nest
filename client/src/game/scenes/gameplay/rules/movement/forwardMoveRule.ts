@@ -9,7 +9,7 @@ export default class ForwardMoveRule implements IMovementRule {
     const isTopTeam = piece.color === PlayerColor.Yellow;
     const startPosition = move.from;
     const endPosition = move.to;
-    const isCaptureMove = move.deltaX === 2 && move.deltaY === 2;
+    const { isCaptureMove } = move;
     const isValid = isTopTeam
       ? endPosition.y > startPosition.y
       : endPosition.y < startPosition.y;
