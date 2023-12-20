@@ -1,4 +1,9 @@
 # checkers-multiplayer-game-phaser-nest
+
+![full game](https://i.imgur.com/kKHPfWe.png)
+![multiplayer](https://i.imgur.com/P4d4nEj.png)
+
+
 Multiplayer Checkers game made with PhaserJS, React, NestJS, SocketIO (TypeScript).
 We guys did this for a bet company here in Brazil, but we got scammed and did not get paid, so we decided to turn it open source.
 
@@ -11,9 +16,17 @@ Me - Main Developer
 
 Jonatan (SkyAlpha) - https://github.com/SkyAlpha - https://www.linkedin.com/in/jonatan-pietroski-60759585/ - Main Developer
 
+Danilo (Dan) - https://github.com/Dans1997 - Main Developer
+
 https://www.instagram.com/nieldsgn/ - Graphics Artist
 
 https://www.instagram.com/saporettidzn/ - Graphics Artist
 
-# Usage
-Only code provided are free to use commercially under the respective license. All game artistic and sound resources are property of artists and not free to use commercially.
+https://www.instagram.com/lpdamagica/ - Sound Designer
+
+
+# Commercial Usage
+Only code provided are free to use commercially under the respective license. All game artistic and sound/music resources are property of artists and not free to use commercially.
+
+# Extra
+![huehuebr](https://i.imgur.com/bWPHnpc.png)
