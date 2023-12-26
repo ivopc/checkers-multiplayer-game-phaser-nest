@@ -10,12 +10,13 @@ const config: Phaser.Types.Core.GameConfig = {
   scene: [PreloadScene, MenuScene, GameplayScene],
   backgroundColor: '#000000',
   parent: 'checkers-game',
+  transparent: true,
   scale: {
     mode: Phaser.Scale.FIT,
     // Game must be 1:1
     max: {
-      width: 600,
-      height: 600,
+      width: 800,
+      height: 800,
     },
   },
   // physics: {

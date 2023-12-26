@@ -11,15 +11,15 @@ import GameplayScene from '..';
 export const BoardLayout = {
   x: 215,
   y: 64,
-  width: 512,
-  height: 512,
+  width: 700,
+  height: 700,
 };
 
 export const CellLayout = {
-  initialX: 12,
-  initialY: 14,
-  width: 61,
-  height: 61,
+  initialX: 16,
+  initialY: 19,
+  width: 83,
+  height: 84,
 };
 
 export default class Board extends Phaser.GameObjects.Container {

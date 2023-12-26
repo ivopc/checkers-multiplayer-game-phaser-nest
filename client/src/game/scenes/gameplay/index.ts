@@ -82,6 +82,7 @@ export default class GameplayScene extends Phaser.Scene {
         },
       )
       .setOrigin(0.5);
+    this.curentTurnText.visible = false;
     this.board.manager.init();
     this.cameras.main.centerOn(
       board.x + board.width / 2,

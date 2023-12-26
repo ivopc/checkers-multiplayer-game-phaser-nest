@@ -15,7 +15,8 @@ export default class MenuScene extends Phaser.Scene {
     /**
      * @todo put all of these inside a UI handler and layout data inside a json
      */
-    const titleText = this.add.text(
+    this.add.image(this.cameras.main.centerX, 100, "bg-bg-bg").setOrigin(0.5).setDisplaySize(700, 1300);
+    /*const titleText = this.add.text(
       this.cameras.main.centerX,
       100,
       'Checkers',
@@ -24,12 +25,12 @@ export default class MenuScene extends Phaser.Scene {
         color: '#000000',
       },
     );
-    titleText.setOrigin(0.5);
-
+    titleText.setOrigin(0.5);*/
+    this.add.image(this.cameras.main.centerX, 200, "logo").setOrigin(0.5).setScale(1.5);
     this.playButton = new Button(
       this,
       500,
-      300,
+      400,
       0.5,
       0.25,
       'button',
@@ -40,7 +41,7 @@ export default class MenuScene extends Phaser.Scene {
     this.optionsButton = new Button(
       this,
       500,
-      400,
+      510,
       0.5,
       0.25,
       'button',

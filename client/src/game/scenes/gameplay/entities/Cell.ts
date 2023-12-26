@@ -45,7 +45,7 @@ export default class Cell extends Phaser.GameObjects.Rectangle {
   }
 
   public activate(): void {
-    this.setStrokeStyle(5, 0x000000, 1);
+    this.setStrokeStyle(LINE_WIDTH, 0x000000, 1);
     this.setInteractive();
   }
 
@@ -55,7 +55,7 @@ export default class Cell extends Phaser.GameObjects.Rectangle {
   }
 
   public select() {
-    this.setStrokeStyle(5, 0xffff00, 1);
+    this.setStrokeStyle(LINE_WIDTH, 0xffff00, 1);
   }
 
   public deselect() {
@@ -72,3 +72,6 @@ export default class Cell extends Phaser.GameObjects.Rectangle {
 
   private mouseOut() {}
 }
+
+const LINE_WIDTH = 3;
+ 

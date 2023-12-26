@@ -37,6 +37,8 @@ export default class PreloadScene extends Phaser.Scene {
       `${PlayerColor.Blue}-king`,
       '/App/src/assets/common/piece-blue-king.png',
     );
+    this.load.image("bg-bg-bg", "/App/src/assets/common/modal/paper.webp");
+    this.load.image("logo", "/App/src/assets/common/title-name.png");
     audios.forEach((audio) =>
       this.load.audio(
         `audio/${audio}`,

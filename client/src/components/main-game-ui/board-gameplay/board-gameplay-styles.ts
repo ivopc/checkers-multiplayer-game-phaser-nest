@@ -1,7 +1,7 @@
 import styled from "styled-components";
 import boardBase from "../../../assets/common/board-base.png";
 import { CenteredIcon } from "../../../shared-styled-components";
-import board from "../../../assets/common/board-with-tiles.webp";
+import board from "../../../assets/common/modal/wooden-frame-with-bg.webp";
 import { devices } from "../../../utils/devices";
 
 export const Wrapper = styled.div`
@@ -158,8 +158,8 @@ export const BoardContainer = styled.div`
   align-items: center;
   flex-grow: 1;
   flex-shrink: 0;
-  /* width: 600px;
-  height: 600px; */
+  width: 12000px;
+  height: 12000px; 
   background: url(${board});
   background-repeat: no-repeat;
   background-size: 100% 100%;

@@ -24,7 +24,7 @@ export default class Button extends Phaser.GameObjects.Container {
 
     this.buttonText = scene.add.text(0, 0, text, {
       ...{
-        font: '16px Arial',
+        font: '35px Sans-Serif',
         color: '#FFFFFF',
         align: 'center',
       },
