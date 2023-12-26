@@ -1,7 +1,9 @@
-# checkers-multiplayer-game-phaser-nest
+# Multiplayer Online Checkers Game
 
-![full game](https://i.imgur.com/kKHPfWe.png)
-![multiplayer](https://i.imgur.com/P4d4nEj.png)
+![menu](https://i.imgur.com/VH8T2Dg.png)
+![fullgame](https://i.imgur.com/9laKDvj.png)
+![multiplayer](https://i.imgur.com/Ql14mOc.png)
+
 
 
 Multiplayer Checkers game made with PhaserJS, React, NestJS, SocketIO (TypeScript).
@@ -9,14 +11,14 @@ We guys did this for a bet company here in Brazil, but we got scammed and did no
 
 It's incomplete in a lot of features for bet purpouses, but it's primary gameplay is working nice with some know bugs that you can check in repository's issues, all the gameplay rule features are server-authoritative and processed inside of it.
 
-Do not forget to create .env based in .env.example file in `/client` path root
+# Do not forget to create .env based in .env.example file in `/client` path root
 
 # Credits
 Me - Main Developer
 
 Jonatan (SkyAlpha) - https://github.com/SkyAlpha - https://www.linkedin.com/in/jonatan-pietroski-60759585/ - Main Developer
 
-Danilo (Dan) - https://github.com/Dans1997 - Main Developer
+Danilo (Dan) - https://github.com/Dans1997 - Main Developer (But moved to another team about few weeks)
 
 https://www.instagram.com/nieldsgn/ - Graphics Artist
 
