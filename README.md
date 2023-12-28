@@ -11,7 +11,7 @@ We guys did this for a bet company here in Brazil, but we got scammed and did no
 
 It's incomplete in a lot of features for bet purpouses, but it's primary gameplay is working nice with some know bugs that you can check in repository's issues, all the gameplay rule features are server-authoritative and processed inside of it.
 
-# Do not forget to create .env based in .env.example file in `/client` path root
+# Do not forget to create .env file based in .env.example file in `/client` folder path root
 
 # Credits
 Me - Main Developer
