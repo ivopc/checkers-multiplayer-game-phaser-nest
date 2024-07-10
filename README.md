@@ -14,7 +14,7 @@ It's incomplete in a lot of features for bet purpouses, but it's primary gamepla
 # Do not forget to create .env file based in .env.example file in `/client` folder path root
 
 # Credits
-Me - Main Developer
+ Ivopc (Me) - https://github.com/ivopc/ - https://www.linkedin.com/in/ivo-camargo-97a670161/ - Main Developer
 
 Jonatan (SkyAlpha) - https://github.com/SkyAlpha - https://www.linkedin.com/in/jonatan-pietroski-60759585/ - Main Developer
 
